@@ -1,0 +1,6 @@
+set_var EASYRSA_REQ_COUNTRY    "PH"
+set_var EASYRSA_REQ_PROVINCE   "BULACAN"
+set_var EASYRSA_REQ_CITY       "CALUMPIT"
+set_var EASYRSA_REQ_ORG        "osus"
+set_var EASYRSA_REQ_EMAIL      "hanzivan1616@gmail.com"
+set_var EASYRSA_REQ_OU         "EkelamOsus"
